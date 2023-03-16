@@ -1,2 +1,2 @@
-# FeedBuzz Web Site
-I made a blog site using php, phpmyadmin, html, css and js.
+# FeedBuzz Website
+I made a blog website using php, phpmyadmin, html, css and js.
