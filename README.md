@@ -1,2 +1,2 @@
-# FeedBuzz-Web-Site
-Php, phpmyadmin, html, css ve js kullanarak bir blog sitesi yaptım.
+# FeedBuzz Web Site
+I made a blog site using php, phpmyadmin, html, css and js.
